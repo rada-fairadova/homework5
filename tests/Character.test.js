@@ -1,4 +1,4 @@
-import Character from '../src/Character';
+import Character from '../src/Character.js';
 
 describe('Character', () => {
   test('should create a character with valid name and type', () => {
